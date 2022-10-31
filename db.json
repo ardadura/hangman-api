@@ -2,6 +2,8 @@
   "users": [{
     "id": 1,
     "name": "dummy",
-    "role": "admin"
+    "role": "admin",
+    "password": 12341234,
+    "email": "asd@asd.com"
   }]
 }
